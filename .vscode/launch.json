@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://Lakhya2503",
+            "request": "launch",
+            "url": "http://Lakhya2503"
+        }
+    ]
+}
